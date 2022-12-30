@@ -1,0 +1,43 @@
+/* #text{
+width: 80%;
+
+} */
+
+.flex-container{
+   display: flex;
+   background-color: aliceblue;
+   margin: 20px;
+    padding:20px;
+    height: 100%;
+    font-size: 40px;
+    justify-content: space-between;
+       
+         
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    font-size:15px;
+}
+.head{
+   background-color: black;
+   color: white;
+   height: 40px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+
+   table,th,td{
+       width: 800px;
+       margin: auto;
+        font-size:30px;
+        padding: 20px;
+        text-align: center;
+        border:2px,solid,black;
+        border-collapse: collapse;
+   }
+   
